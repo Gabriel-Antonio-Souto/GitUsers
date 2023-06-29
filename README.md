@@ -1,6 +1,6 @@
 ## GitUsers
 
-<!--<img align="center" with="100%" src="portal.png" />-->
+<img align="center" with="100%" src="src/pages/2.png" />
 
 Projeto simples de um aplicativo que busca dados de perfil dos usários do GitHub.
 Aplicativo feito em React Native, Expo, Nodejs e API do GitHub.
